@@ -1,0 +1,131 @@
+{
+	"pages": [ //pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages
+		{
+			"path": "pages/index/index",
+			"style": {
+				"navigationBarTitleText": "",
+				"app-plus": {
+					"titleNView": false //禁用原生导航栏
+				}
+			}
+		},
+		{
+			"path": "pages/bigger/ultrasonic",
+			"style": {
+				"navigationBarTitleText": "",
+				"app-plus": {
+					"titleNView": false //禁用原生导航栏
+				}
+			}
+		}
+        ,{
+            "path" : "pages/bigger/two",
+            "style": {
+            	"navigationBarTitleText": "",
+            	"app-plus": {
+            		"titleNView": false //禁用原生导航栏
+            	}
+            }
+        },
+		{
+		    "path" : "pages/bigger/three",
+		    "style": {
+		    	"navigationBarTitleText": "",
+		    	"app-plus": {
+		    		"titleNView": false //禁用原生导航栏
+		    	}
+		    }
+		},
+		{
+		    "path" : "pages/bigger/five",
+		    "style": {
+		    	"navigationBarTitleText": "",
+		    	"app-plus": {
+		    		"titleNView": false //禁用原生导航栏
+		    	}
+		    }
+		},
+		{
+		    "path" : "pages/bigger/seven",
+		    "style": {
+		    	"navigationBarTitleText": "",
+		    	"app-plus": {
+		    		"titleNView": false //禁用原生导航栏
+		    	}
+		    }
+		},
+		{
+		    "path" : "pages/bigger/eight",
+		    "style": {
+		    	"navigationBarTitleText": "",
+		    	"app-plus": {
+		    		"titleNView": false //禁用原生导航栏
+		    	}
+		    }
+		},
+		{
+		    "path" : "pages/small/two",
+		    "style": {
+		    	"navigationBarTitleText": "",
+		    	"app-plus": {
+		    		"titleNView": false //禁用原生导航栏
+		    	}
+		    }
+		},
+		{
+		    "path" : "pages/small/digestion",
+		    "style": {
+		    	"navigationBarTitleText": "",
+		    	"app-plus": {
+		    		"titleNView": false //禁用原生导航栏
+		    	}
+		    }
+		},
+		{
+		    "path" : "pages/small/nosethroat",
+		    "style": {
+		    	"navigationBarTitleText": "",
+		    	"app-plus": {
+		    		"titleNView": false //禁用原生导航栏
+		    	}
+		    }
+		},
+		{
+		    "path" : "pages/skin/skin",
+		    "style": {
+		    	"navigationBarTitleText": "",
+		    	"app-plus": {
+		    		"titleNView": false //禁用原生导航栏
+		    	}
+		    }
+		}
+        ,{
+            "path" : "pages/visit/visit",
+            "style" :                                                                                    
+            {
+               "navigationBarTitleText": "",
+               "app-plus": {
+               	"titleNView": false //禁用原生导航栏
+               }
+            }
+            
+        },
+		{
+		    "path" : "pages/visit/expert",
+		    "style" :                                                                                    
+		    {
+		       "navigationBarTitleText": "",
+		       "app-plus": {
+		       	"titleNView": false //禁用原生导航栏
+		       }
+		    }
+		    
+		}
+    ],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "协和医院",
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"backgroundColor": "#F8F8F8"
+	}
+}
